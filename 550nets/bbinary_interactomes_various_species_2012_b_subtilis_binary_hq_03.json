@@ -1,0 +1,60 @@
+{
+  "name": "bbinary_interactomes_various_species_2012_b_subtilis_binary_hq_03",
+  "percent": 20,
+  "nodes": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "domain": "biological",
+  "directed": false,
+  "original_edges_count": 4,
+  "train_edges": [
+    [
+      2,
+      4
+    ],
+    [
+      5,
+      3
+    ],
+    [
+      4,
+      3
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      2,
+      5
+    ],
+    [
+      5,
+      1
+    ],
+    [
+      2,
+      3
+    ]
+  ],
+  "test_edges": [],
+  "train_labels": [
+    1,
+    0,
+    0,
+    1,
+    0,
+    1,
+    0,
+    1
+  ],
+  "test_labels": []
+}
